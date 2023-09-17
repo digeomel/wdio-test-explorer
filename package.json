@@ -3,6 +3,9 @@
     "displayName": "WebdriverIO Test Explorer",
     "description": "Run your WebdriverIO tests from the sidebar of Visual Studio Code",
     "version": "0.0.1",
+    "icon": "images/wdio-test-explorer.png",
+    "private": true,
+    "repository": "https://github.com/digeomel/wdio-test-explorer",
     "engines": {
         "vscode": "^1.82.0"
     },
